@@ -1,0 +1,27 @@
+[13:49:26] [Client thread/INFO]: Setting user: Player703
+[13:49:26] [Client thread/INFO]: (Session ID is token:0:Player703)
+[13:49:28] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:49:28] [Client thread/INFO]: Reloading ResourceManager: Default
+[13:49:28] [Client thread/ERROR]: Couldn't initialize twitch stream
+[13:49:28] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:49:28] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[13:49:28] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:49:29] [Thread-6/INFO]: OpenAL initialized.
+[13:49:29] [Sound Library Loader/INFO]: Sound engine started
+[13:49:30] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:49:50] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[13:49:50] [Server thread/INFO]: Generating keypair
+[13:49:50] [Server thread/INFO]: Preparing start region for level 0
+[13:49:51] [Server thread/INFO]: Preparing spawn area: 10%
+[13:49:52] [Server thread/INFO]: Preparing spawn area: 22%
+[13:49:53] [Server thread/INFO]: Preparing spawn area: 37%
+[13:49:54] [Server thread/INFO]: Preparing spawn area: 55%
+[13:49:55] [Server thread/INFO]: Preparing spawn area: 74%
+[13:49:56] [Server thread/INFO]: Preparing spawn area: 94%
+[13:49:56] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:49:56] [Server thread/INFO]: Player703[local:E:4ddd3b9b] logged in with entity id 129 at (569.9018405826237, 75.72718988175042, 226.05879958267496)
+[13:49:56] [Server thread/INFO]: Player703 joined the game
+[13:49:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2095ms behind, skipping 41 tick(s)
+[13:50:00] [Client thread/INFO]: Stopping!
+[13:50:00] [Client thread/INFO]: SoundSystem shutting down...
+[13:50:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
